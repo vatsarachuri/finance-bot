@@ -18,3 +18,4 @@ scikit-learn
 feedparser
 openpyxl
 requests
+groq
